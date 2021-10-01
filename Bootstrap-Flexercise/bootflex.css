@@ -1,0 +1,12 @@
+.col-md-2, .col-md-8 {
+    border: blue double 15px;
+    height: 250px;
+    width: 400px;
+    margin: 35px;
+}
+
+}
+h2 {
+    font-size: 150px;
+    text-align: center;
+}
